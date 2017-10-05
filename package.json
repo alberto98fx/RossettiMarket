@@ -1,0 +1,22 @@
+{
+  "name": "rossetti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Fulcini",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.3",
+    "csurf": "^1.9.0",
+    "express": "^4.16.0",
+    "express-winston": "^2.4.0",
+    "helmet": "^3.8.2",
+    "serve-index": "^1.9.1",
+    "winston": "^2.3.1"
+  }
+}
