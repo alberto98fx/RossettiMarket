@@ -1,0 +1,1 @@
+npm-run-all --parallel frontend backend
