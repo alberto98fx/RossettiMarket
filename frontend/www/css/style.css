@@ -7795,7 +7795,7 @@ to {
 }
 /* new banner*/
 .block-static2-inner {
-	border: 10px solid #223d96;
+	/*border: 10px solid #223d96;*/
 	min-height: 248px;
 	position: relative;
 	text-transform: uppercase;
